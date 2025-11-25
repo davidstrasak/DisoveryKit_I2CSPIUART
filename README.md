@@ -19,7 +19,7 @@ Learning bare metal programming on the STM32F100RB Discovery board. This project
 
 ### Wiring
 
-![Wiring Schematic](images/schematic.png)
+![Wiring Schematic](HowToWireItUp.png)
 
 **Note:** Make sure your MPU6050 module has built-in pull-up resistors on SCL and SDA lines.
 
@@ -33,7 +33,7 @@ Learning bare metal programming on the STM32F100RB Discovery board. This project
 
 ## Serial Plotter Output
 
-![MPU6050 Data Plot](images/plotted_data.png)
+![MPU6050 Data Plot](DataPlottedUnfiltered.png)
 
 The plotter shows all 7 data streams in real-time.
 
